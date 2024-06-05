@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sist_Contr_Cli_Senai/1.0.0": {
+        "runtime": {
+          "Sist_Contr_Cli_Senai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sist_Contr_Cli_Senai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

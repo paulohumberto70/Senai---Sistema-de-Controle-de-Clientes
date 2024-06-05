@@ -1,0 +1,14 @@
+C:\SENAI\Sist_Contr_Cli_Senai\bin\Debug\net8.0\Sist_Contr_Cli_Senai.exe
+C:\SENAI\Sist_Contr_Cli_Senai\bin\Debug\net8.0\Sist_Contr_Cli_Senai.deps.json
+C:\SENAI\Sist_Contr_Cli_Senai\bin\Debug\net8.0\Sist_Contr_Cli_Senai.runtimeconfig.json
+C:\SENAI\Sist_Contr_Cli_Senai\bin\Debug\net8.0\Sist_Contr_Cli_Senai.dll
+C:\SENAI\Sist_Contr_Cli_Senai\bin\Debug\net8.0\Sist_Contr_Cli_Senai.pdb
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.AssemblyInfoInputs.cache
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.AssemblyInfo.cs
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.csproj.CoreCompileInputs.cache
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.dll
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\refint\Sist_Contr_Cli_Senai.dll
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.pdb
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\Sist_Contr_Cli_Senai.genruntimeconfig.cache
+C:\SENAI\Sist_Contr_Cli_Senai\obj\Debug\net8.0\ref\Sist_Contr_Cli_Senai.dll
